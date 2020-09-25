@@ -2,5 +2,7 @@
 
 using namespace std;
 int main(){
-    cout<<"hello world";
+    cout<<"hello world\n";
+    cout<<"Cancel analog lectures.";
+    return 0;
 }
